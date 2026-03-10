@@ -1,0 +1,5 @@
+This video demonstrates Parikirtti, an AI-powered chatbot built using Natural Language Processing (NLP) and Retrieval-Augmented Generation (RAG). The chatbot is designed to understand user queries and provide accurate, context-aware responses by retrieving relevant information from a knowledge base.
+
+The project focuses on providing information related to Ayurvedic concepts, particularly the role of doshas (Vata, Pitta, and Kapha) in determining treatments. By identifying different doshas, doctors can decide the appropriate treatment and further therapeutic procedures.
+
+Using the RAG architecture, the chatbot retrieves relevant knowledge and generates intelligent responses in real time. This system helps reduce manual screening of information, improves accessibility to Ayurvedic knowledge, and enables users to interact with the system through a natural conversational interface.
